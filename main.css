@@ -1,0 +1,15 @@
+body{
+  display:flex;
+  background-image: url("jasmine.jpg");
+  background-size:cover;
+
+  
+}
+div{
+  align-content: center;
+  margin:0 auto;
+}
+p{
+  font-family: 'Charm', cursive;
+  font-size: 16px;
+}
